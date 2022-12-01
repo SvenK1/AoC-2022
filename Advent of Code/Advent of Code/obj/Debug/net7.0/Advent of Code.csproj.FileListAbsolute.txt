@@ -1,0 +1,15 @@
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\bin\Debug\net7.0\Advent of Code.exe
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\bin\Debug\net7.0\Advent of Code.deps.json
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\bin\Debug\net7.0\Advent of Code.runtimeconfig.json
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\bin\Debug\net7.0\Advent of Code.dll
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\bin\Debug\net7.0\Advent of Code.pdb
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.csproj.AssemblyReference.cache
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.AssemblyInfoInputs.cache
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.AssemblyInfo.cs
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.csproj.CoreCompileInputs.cache
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.dll
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\refint\Advent of Code.dll
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.pdb
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\Advent of Code.genruntimeconfig.cache
+C:\Users\svenk\AoC 2022\Advent of Code\Advent of Code\obj\Debug\net7.0\ref\Advent of Code.dll
