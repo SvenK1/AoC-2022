@@ -2,3 +2,4 @@
 using Advent_of_Code.Dag_1;
 
 Console.WriteLine(Calories.MostCalories().Result);
+Console.WriteLine(Calories.ThreeMostCalories().Result);
